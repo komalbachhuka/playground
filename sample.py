@@ -1,4 +1,4 @@
-i= input('Enter a positive integer number')
+i= input('Enter a positive integer')
 try:
     j = int(i)
 except:
